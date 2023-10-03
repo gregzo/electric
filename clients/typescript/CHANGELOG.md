@@ -1,5 +1,11 @@
 # electric-sql
 
+## 0.6.5
+
+### Patch Changes
+
+- 226c004: Fix bug for table named "model"
+
 ## 0.6.4
 
 ### Patch Changes
