@@ -1,5 +1,13 @@
 # electric-sql
 
+## 0.6.5
+
+### Patch Changes
+
+- 0e24343: [VAX-1078] Fix the issue where the client was unable to sync local writes of whole numbers to float columns.
+- 226c004: Fix bug for table named "model"
+- b5ba482: Fix error that table already exists when re-generating client after having previously received a migration over the replication stream.
+
 ## 0.6.4
 
 ### Patch Changes
